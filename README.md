@@ -1,6 +1,8 @@
 # WeaponBlender
 The Hard Surface Game Asset Course 2.0
 
+这个教程要放弃，不建议使用Boolean。用了太多n-gon。
+
 ### 1. Modelling1
 
 #### 1.1 遇到一个bug
